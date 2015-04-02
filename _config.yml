@@ -1,0 +1,11 @@
+# Site settings
+title: austinjalexander's tech blog
+email: austinjalexander@gmail.com
+description: artificial intelligence, data science, optimization, software engineering, web application development, math...these are a few of my favorite things.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://austinjalexander.github.io" # the base hostname & protocol for your site
+twitter_username: austinjalexande
+github_username:  austinjalexander
+
+# Build settings
+markdown: kramdown
