@@ -9,3 +9,5 @@ github_username:  austinjalexander
 
 # Build settings
 markdown: kramdown
+
+permalink: pretty
