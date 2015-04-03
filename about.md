@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This blog is for relatively random tech interests that pass my way.
+This blog is for relatively random tech bits that pass my way.
