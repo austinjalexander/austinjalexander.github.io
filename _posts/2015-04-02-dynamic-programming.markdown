@@ -2,7 +2,7 @@
 layout: post
 title:  "Dynamic Programming"
 date:   2015-04-02 19:27:41
-categories: dynamic programming optimization greedy algorithms
+categories: dynamic programming
 ---
 [UNDER CONSTRUCTION]
 
