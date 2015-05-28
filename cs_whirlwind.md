@@ -11,7 +11,7 @@ permalink: /cs_whirlwind/
 ###Syllabus (Google Doc)
 <a href="https://docs.google.com/document/d/1GIP3zDmVn3SpVdrwLWJTiRjcBN7qp0CvQL_StSw0qe4/edit?usp=sharing" target="_blank">CS Whirlwind Syllabus</a>
 
-###Development Environment Setup
+###Development Environment Setup (Github Repo)
 <a href="https://github.com/austinjalexander/cs_whirlwind" target="_blank">CS Whirlwind Github Repo</a>
 
 ###Slides (Google Slides)
