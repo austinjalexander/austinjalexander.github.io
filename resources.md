@@ -10,6 +10,11 @@ permalink: /resources/
 ###Deep Learning
 <a href="http://deeplearning.net/" target="_blank">DeepLearning.net</a>
 
+###Quantitative Finance
+<a href="https://www.quantopian.com/home" target="_blank">Quantopian</a>
+
 ###Regular Expressions
 <a href="https://regex101.com/#python" target="_blank">regex101.com</a> |
 <a href="http://regexr.com/" target="_blank">RegExr</a>
+
+
