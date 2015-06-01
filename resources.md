@@ -10,6 +10,9 @@ permalink: /resources/
 ###Deep Learning
 <a href="http://deeplearning.net/" target="_blank">DeepLearning.net</a>
 
+###Hackathons
+<a href="http://www.hackathon.io/events" target="_blank">hackathon.io</a>
+
 ###Quantitative Finance
 <a href="https://www.quantopian.com/home" target="_blank">Quantopian</a>
 
