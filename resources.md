@@ -4,6 +4,9 @@ title: Resources
 permalink: /resources/
 ---
 
+###Data Science (General)
+<a href="http://www.opendatascience.com/" target="_blank">Open Data Science</a>
+
 ###Data Wrangling
 <a href="http://soupy.readthedocs.org/en/latest/" target="_blank">Soupy</a>
 
