@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CS Whirlwind
-permalink: /cs_whirlwind/
+title: CS Seminar
+permalink: /cs_seminary/
 ---
 
 ###Surveys (Google Forms)
@@ -12,7 +12,7 @@ permalink: /cs_whirlwind/
 <a href="https://docs.google.com/document/d/1GIP3zDmVn3SpVdrwLWJTiRjcBN7qp0CvQL_StSw0qe4/edit?usp=sharing" target="_blank">CS Whirlwind Syllabus</a>
 
 ###Development Environment Setup (Github Repo)
-<a href="https://github.com/austinjalexander/cs_whirlwind" target="_blank">CS Whirlwind Github Repo</a>
+<a href="https://github.com/austinjalexander/cs_seminar" target="_blank">CS Whirlwind Github Repo</a>
 
 ###Slides (Google Slides)
 Class 1: 
