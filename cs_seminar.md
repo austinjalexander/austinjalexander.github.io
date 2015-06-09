@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS Seminar 2015, Session 1
+title: CS Seminar 2015
 permalink: /cs_seminar/
 ---
 
