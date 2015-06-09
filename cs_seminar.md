@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CS Seminar 2015 : Session 1
+title: CS Seminar 2015, Session 1
 permalink: /cs_seminar/
 ---
 
@@ -12,7 +12,7 @@ permalink: /cs_seminar/
 <a href="https://docs.google.com/document/d/1GIP3zDmVn3SpVdrwLWJTiRjcBN7qp0CvQL_StSw0qe4/edit?usp=sharing" target="_blank">CS Seminar Syllabus</a>
 
 ###Development Environment Setup (Github Repo)
-<a href="https://github.com/austinjalexander/cs_seminar" target="_blank">CS Whirlwind Github Repo</a>
+<a href="https://github.com/austinjalexander/cs_seminar" target="_blank">CS Seminar Github Repo</a>
 
 ###Slides (Google Slides)
 Class 1: 
