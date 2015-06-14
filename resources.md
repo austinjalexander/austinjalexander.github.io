@@ -4,6 +4,9 @@ title: Resources
 permalink: /resources/
 ---
 
+###CSS
+<a href="https://css-tricks.com/almanac/" target="_blank">CSS "Almanac"</a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank">CSS Reference</a> | <a href="https://css-tricks.com/how-css-selectors-work/" target="_blank">CSS Selectors</a> | <a href="https://css-tricks.com/multiple-class-id-selectors/" target="_blank">CSS Multiple Selectors</a>
+
 ###Data Science (General)
 <a href="http://www.opendatascience.com/" target="_blank">Open Data Science</a>
 
