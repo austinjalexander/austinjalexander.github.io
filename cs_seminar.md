@@ -18,6 +18,7 @@ permalink: /cs_seminar/
 Class 1: 
 <a href="https://docs.google.com/presentation/d/1X0TnuJwVWIecJ67fsk7a7aEvEXJbkQg1qoLtoiWygcA/pub?start=false&loop=false&delayms=3000" target="_blank">ABSORB</a> |
 <a href="https://docs.google.com/presentation/d/1r8QpxlllRzSkh2Ncc5vjnuL6FRWScdFZYltGRT_3R78/pub?start=false&loop=false&delayms=3000" target="_blank">APPLY</a>
+
 <!--
 Class 2: 
 <a href="https://docs.google.com/presentation/d/198Jttzbvqk-_sNFvXcNv5q529X4J_rcsFpozksF1Rec/pub?start=false&loop=false&delayms=3000" target="_blank">ABSORB</a> |
