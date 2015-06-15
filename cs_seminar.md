@@ -19,11 +19,12 @@ Class 1:
 <a href="https://docs.google.com/presentation/d/1X0TnuJwVWIecJ67fsk7a7aEvEXJbkQg1qoLtoiWygcA/pub?start=false&loop=false&delayms=3000" target="_blank">ABSORB</a> |
 <a href="https://docs.google.com/presentation/d/1r8QpxlllRzSkh2Ncc5vjnuL6FRWScdFZYltGRT_3R78/pub?start=false&loop=false&delayms=3000" target="_blank">APPLY</a>
 
-<!--
 Class 2: 
 <a href="https://docs.google.com/presentation/d/198Jttzbvqk-_sNFvXcNv5q529X4J_rcsFpozksF1Rec/pub?start=false&loop=false&delayms=3000" target="_blank">ABSORB</a> |
 <a href="https://docs.google.com/presentation/d/1G-ObnxIYmp3iXYLJ6bimaND4T36jAa0z4KBx8DoRlIs/pub?start=false&loop=false&delayms=3000" target="_blank">APPLY</a>
 
+
+<!--
 Class 3: 
 <a href="https://docs.google.com/presentation/d/1Ubhfu9NuqMHI-09qrFr3WhQM8QG4IDAJHxHBq1JvAtA/pub?start=false&loop=false&delayms=3000" target="_blank">ABSORB</a> |
 <a href="https://docs.google.com/presentation/d/10DvKdKFs1q3Kz_uCb7_SfdJk8La7ZJQEALYatu27PZc/pub?start=false&loop=false&delayms=3000" target="_blank">APPLY</a>
