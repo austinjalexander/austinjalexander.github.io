@@ -23,6 +23,9 @@ Class 2:
 <a href="https://docs.google.com/presentation/d/198Jttzbvqk-_sNFvXcNv5q529X4J_rcsFpozksF1Rec/pub?start=false&loop=false&delayms=3000" target="_blank">ABSORB</a> |
 <a href="https://docs.google.com/presentation/d/1G-ObnxIYmp3iXYLJ6bimaND4T36jAa0z4KBx8DoRlIs/pub?start=false&loop=false&delayms=3000" target="_blank">APPLY</a>
 
+Class 6: 
+<a href="https://docs.google.com/presentation/d/196Hlwo6T2kCvv19LcHIKnRRu3101oiAqdHleAq33zag/pub?start=false&loop=false&delayms=3000" target="_blank">SLIDES</a>
+
 
 <!--
 Class 3: 
