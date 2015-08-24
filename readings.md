@@ -9,6 +9,8 @@ permalink: /readings/
 
 <a href="http://hunch.net/?p=224" target="_blank">All Models of Learning have Flaws</a>
 
+###Messaging
+<a href="http://c2.com/cgi/wiki?AlanKayOnMessaging" target="_blank">Alan Kay on Messaging</a> (1998)
 
 ###Neural Networks Introductions
 <a href="http://www.heatonresearch.com/content/non-mathematical-introduction-using-neural-networks" target="_blank">A Non-Mathematical Introduction to Using Neural Networks</a>
