@@ -29,6 +29,17 @@ Enron Email Corpus: <a href="https://www.cs.cmu.edu/~./enron/" target="_blank">C
 ###HTTP
 <a href="http://httpbin.org/" target="_blank">httpbin</a>
 
+###JavaScript
+<a href="http://eloquentjavascript.net/" target="_blank">Eloquent JavaScript</a>
+
+<a href="http://shichuan.github.io/javascript-patterns/" target="_blank">JavaScript Patterns</a>
+
+<a href="http://addyosmani.com/resources/essentialjsdesignpatterns/book/" target="_blank">Learning JavaScript Design Patterns</a>
+
+<a href="http://nodeschool.io/#workshoppers" target="_blank">nodeschool workshoppers</a>
+
+<a href="http://facebook.github.io/react/" target="_blank">React.js</a>
+
 ###Solve Symbolic Expressions
 <a href="http://live.sympy.org/" target="_blank">SymPy</a>
 
