@@ -11,7 +11,7 @@ permalink: /resources/
 <a href="https://css-tricks.com/almanac/" target="_blank">CSS "Almanac"</a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank">CSS Reference</a> | <a href="https://css-tricks.com/how-css-selectors-work/" target="_blank">CSS Selectors</a> | <a href="https://css-tricks.com/multiple-class-id-selectors/" target="_blank">CSS Multiple Selectors</a>
 
 ###Data Science (General)
-<a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/" target="_blank">A Visual Introduction to Machine Learning</a>
+<a href="http://www.r2d3.us/visual-intro-to-machine-learning-part-1/" target="_blank">A Visual Introduction to Machine Learning</a> |
 <a href="https://github.com/donnemartin/data-science-ipython-notebooks" target="_blank">iPython Notebook Examples</a> |
 <a href="http://www.opendatascience.com/" target="_blank">Open Data Science</a>
 
