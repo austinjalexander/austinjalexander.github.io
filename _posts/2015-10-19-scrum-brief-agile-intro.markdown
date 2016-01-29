@@ -53,6 +53,55 @@ high-performing, self-organizing team
 -  impediment bulldozer
 -  facilitator
 
+## Team Member
+*  does the actual work and so has total authority over how the work gets done 
+(e.g., what tools and techniques to use, who works on what tasks, etc.)
+*  generates schedule estimates if they are needed by business needs
+*  a specialist who is able to work outside of speciality in order to help deliver
+a potentially shippable product in each sprint
+
+### Summary
+-  completes user stories to increase incrementally the value of the product
+-  self-organizes to accomplish all necessary work
+-  creates and owns the estimates (if needed)
+-  owns "how to do the work" decisions
+-  avoids "not my job/specialty" thinking
+
+## Product Backlog
+-  cumulative list of desired product deliverables, where products serve user needs
+-  includes _backlog items_, also called _user stories_, which are anything meaningful and valuable to produce that satisfy (including features, bug fixes, documentation changes)
+-  ordered by descending story importance
+-  stories near the top should be small and well understood
+-  stories further down the list can be larger and less well understood
+-  each item should include the following information:
+     +  which users the story will benefit (who it is for)
+     +  brief description of the desired functionality (what needs to be built)
+     +  reason story is valuable (why it should be done)
+     +  estimate for how much work is required for implementation
+     +  acceptance criteria to know implementation is correct
+
+## Sprint Backlog
+-  team to-do list for a given sprint
+-  has a finite life-span (i.e., length of sprint)
+-  includes: stories (i.e., unit-of-value deliverables) and associated tasks (i.e., units-of-work that must be accomplished in order to deliver stories); each story will normally require many tasks
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
