@@ -10,8 +10,8 @@ permalink: /videos/
 ###Data Visualization
 <a href="https://youtu.be/RJVL80Gg3lA" target="_blank">Visualizing Data Using t-SNE</a>
 
-### DevOps
-<a href="http://12factor.net/" target="_blank">The Twelve-Factor App</a>
+### Golang
+<a href="https://www.youtube.com/watch?v=CF9S4QZuV30" target="_blank">Go Programming by Derek Banas</a>
 
 ###Math
 <a href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/" target="_blank">Mathematics for Computer Science</a>
