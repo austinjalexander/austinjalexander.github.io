@@ -27,6 +27,9 @@ Enron Email Corpus: <a href="https://www.cs.cmu.edu/~./enron/" target="_blank">C
 ### DevOps
 <a href="http://12factor.net/" target="_blank">The Twelve-Factor App</a>
 
+### Golang
+<a href="http://www.newthinktank.com/2015/02/go-programming-tutorial/" target="_blank">Go Programming Cheat Sheet by Derek Banas</a>
+
 ### Hackathons
 <a href="http://www.hackathon.io/events" target="_blank">hackathon.io</a>
 
