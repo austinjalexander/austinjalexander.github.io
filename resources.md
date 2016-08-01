@@ -7,6 +7,9 @@ permalink: /resources/
 ### Artificial Intelligence
 <a href="http://qiao.github.io/PathFinding.js/visual/" target="_blank">PathFinding.js</a> (visualize)
 
+### Blogging
+<a href="https://jekyllrb.com/" target="_blank">jekyll</a>
+
 ### CSS
 <a href="https://css-tricks.com/almanac/" target="_blank">CSS "Almanac"</a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Reference" target="_blank">CSS Reference</a> | <a href="https://css-tricks.com/how-css-selectors-work/" target="_blank">CSS Selectors</a> | <a href="https://css-tricks.com/multiple-class-id-selectors/" target="_blank">CSS Multiple Selectors</a>
 
@@ -29,6 +32,8 @@ Enron Email Corpus: <a href="https://www.cs.cmu.edu/~./enron/" target="_blank">C
 
 ### Golang
 <a href="http://www.newthinktank.com/2015/02/go-programming-tutorial/" target="_blank">Go Programming Cheat Sheet by Derek Banas</a>
+
+<a href="http://codeignition.co/blog/2015/09/30/gopherhack" target="_blank">Hacking Gopher (Chrome Extension)</a>
 
 ### Hackathons
 <a href="http://www.hackathon.io/events" target="_blank">hackathon.io</a>
@@ -55,6 +60,9 @@ Enron Email Corpus: <a href="https://www.cs.cmu.edu/~./enron/" target="_blank">C
 
 ### Physics
 <a href="http://www.feynmanlectures.caltech.edu/" target="_blank">The Feynman Lectures on Physics</a>
+
+### Signals and Systems
+<a href="http://jackschaedler.github.io/circles-sines-signals/" target="_blank">Seeing Circles, Sines, and Signals: A COMPACT PRIMER ON DIGITAL SIGNAL PROCESSING</a>
 
 ### Solve Symbolic Expressions
 <a href="http://live.sympy.org/" target="_blank">SymPy</a>
