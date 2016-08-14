@@ -25,7 +25,7 @@ Enron Email Corpus: <a href="https://www.cs.cmu.edu/~./enron/" target="_blank">C
 <a href="http://soupy.readthedocs.org/en/latest/" target="_blank">Soupy</a>
 
 ### Deep Learning
-<a href="http://deeplearning.net/" target="_blank">DeepLearning.net</a>
+<a href="http://deeplearning.net/" target="_blank">DeepLearning.net</a> | <a href="http://neuralnetworksanddeeplearning.com/index.html" target="_blank">Neural Networks and Deep Learning</a>
 
 ### DevOps
 <a href="http://12factor.net/" target="_blank">The Twelve-Factor App</a>
